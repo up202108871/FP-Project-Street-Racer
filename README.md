@@ -14,17 +14,6 @@
 
 1) Link para o repositório do GitHub: https://github.com/up202108871/FP-Project-Street-Racer
 
-2) Adicionar, como colaborador com permissão de leitura (*role read*):
-
-- https://github.com/AfonsoSalgadoSousa
-- https://github.com/jlopes60
-- https://github.com/nmacedo
-- https://github.com/rpmcruz
-- https://github.com/eSoares
-- https://github.com/pbv
-- https://github.com/imdcode
-- https://github.com/acoelho-fe-up-pt
-
 ### Descrição
 
 *---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
