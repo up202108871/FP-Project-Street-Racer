@@ -1,7 +1,7 @@
 # FP-Project-Street-Racer
 # Projeto STREET RACER
 ## FPRO/L.EIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
+## Bruno Miguel Lopes da Rocha Fernandes // up202108871
 ## 1L.EIC12
 
 ### Objetivo
